@@ -1,0 +1,7 @@
+/bin/bash: BASH_FUNC_module(): line 0: syntax error near unexpected token `)'
+/bin/bash: BASH_FUNC_module(): line 0: `BASH_FUNC_module() () {  eval $($LMOD_CMD bash "$@");'
+/bin/bash: error importing function definition for `BASH_FUNC_module'
+/bin/bash: BASH_FUNC_ml(): line 0: syntax error near unexpected token `)'
+/bin/bash: BASH_FUNC_ml(): line 0: `BASH_FUNC_ml() () {  eval $($LMOD_DIR/ml_cmd "$@")'
+/bin/bash: error importing function definition for `BASH_FUNC_ml'
+/var/spool/slurm/slurmd/job01932/slurm_script: line 15: cd: /home/cfang/MontePiEst/: 没有那个文件或目录
